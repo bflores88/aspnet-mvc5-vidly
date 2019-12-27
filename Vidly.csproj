@@ -434,6 +434,7 @@
     <Content Include="Content\toastr.less" />
     <Content Include="AppSettings.config" />
     <None Include="Properties\PublishProfiles\Vidly.pubxml" />
+    <Content Include="README.md" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\DataTables\autoFill.bootstrap.js" />
     <Content Include="Scripts\DataTables\autoFill.bootstrap.min.js" />
